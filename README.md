@@ -1,2 +1,2 @@
 # killedge
-Kills Edge and Re-Opens at Specified Time
+Kills Edge and re-opens at specified time for PWA's/any shortcut you make it
